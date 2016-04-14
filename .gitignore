@@ -1,1 +1,5 @@
 *.log
+
+# css files pulled in from main repo 'Firefund/styleguide'
+css/base.css
+css/blocks/**/*
