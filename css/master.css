@@ -12,21 +12,21 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, alias, cumq
 3. Edit `js/config.js` to point at your own `styles.css`
 */
 
-@import url("variables.css");
+@import url("base.css");
 
 /* ### BEM blocks ### */
-@import url("f-hero.css");
-@import url("f-sub-left-heading.css");
-@import url("f-video.css");
-@import url("f-cuff.css");
-@import url("f-text.css");
-@import url("f-image.css");
-@import url("f-spacer.css");
-@import url("f-donate-button.css");
-@import url("f-progress.css");
-@import url("f-horizontal-button-group.css");
-@import url("f-sub-right-heading.css");
-@import url("f-donation-amount.css");
+@import url("blocks/f-hero.css");
+@import url("blocks/f-sub-left-heading.css");
+@import url("blocks/f-video.css");
+@import url("blocks/f-cuff.css");
+@import url("blocks/f-text.css");
+@import url("blocks/f-image.css");
+@import url("blocks/f-spacer.css");
+@import url("blocks/f-donate-button.css");
+@import url("blocks/f-progress.css");
+@import url("blocks/f-horizontal-button-group.css");
+@import url("blocks/f-sub-right-heading.css");
+@import url("blocks/f-donation-amount.css");
 
 @import url("buttons.css");
 @import url("fixie-demo.css");
