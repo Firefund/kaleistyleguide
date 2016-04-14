@@ -1,0 +1,25 @@
+/*
+# Firefund - Style guide
+## Generates live CSS documentation for use on the firefund website
+
+We use [kalei](https://github.com/Firefund/kaleistyleguide/) to generate our documentation right in your browser.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, alias, cumque. Neque dolorum, nemo minima debitis libero quis ducimus reprehenderit non numquam soluta sequi blanditiis at reiciendis, aliquid dolorem corrupti!
+
+## Getting started
+
+1. Download the repository (`git clone git://github.com/thomasdavis/kaleistyleguide.git`)
+2. Serve it on a HTTP server and it should work!
+3. Edit `js/config.js` to point at your own `styles.css`
+*/
+
+/* ### Kalei theme (styleguide styles) ### */
+@import url("theme.css");
+
+
+/* ### BEM blocks ### */
+@import url("buttons.css");
+@import url("fixie-demo.css");
+@import url("jon.css");
+
+/* ### Third Party ### */
+@import url("highlight/styles/googlecode.css");
