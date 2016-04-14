@@ -6,7 +6,7 @@ define({
 	// css_path: 'http://localhost/kaleistyleguide/css/styles.css',
 
 	// You can manually list the css files to process by giving a css_paths array
-	//css_paths: ['../css/styles.css', '../css/buttons.css'],
+	//css_paths: ['../css/theme.css', '../css/highlight/styles/googlecode.css'],
 
 	// By default, Kalei parses raw CSS files using the jscssp library.
 	// If you'd rather use a different processor or preprocessor, you can choose from the below:
