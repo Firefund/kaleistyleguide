@@ -43,6 +43,7 @@
  * the terms of any one of the MPL, the GPL or the LGPL.
  *
  * ***** END LICENSE BLOCK ***** */
+define(function () { // define needed for requirejs
 
 var kCHARSET_RULE_MISSING_SEMICOLON = "Missing semicolon at the end of @charset rule";
 var kCHARSET_RULE_CHARSET_IS_STRING = "The charset in the @charset rule should be a string";
@@ -5466,3 +5467,6 @@ var kJscsspVARIABLES_RULE = 200;
 var kJscsspSTYLE_DECLARATION = 1000;
 
 var gTABS = "";
+
+return CSSParser;
+});
