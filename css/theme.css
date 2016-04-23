@@ -224,7 +224,7 @@ body .codedemo {
   font-size: 100%;
   border-radius: 3px 3px 0 0;
   border: 1px solid #ebebeb;
-  background: url(data: image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAAAXNSR0IArs4c6QAAAAZQTFRF+vr6////+o8bnQAAABBJREFUCB1jYPjPgBXhEAYAfr8P8bm+jEoAAAAASUVORK5CYII=);
+  background-color: #000;
 }
 
 *:not(.codedemo) .kalei-styleguide-menu-heading h1 {

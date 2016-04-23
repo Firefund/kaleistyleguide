@@ -15,6 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, alias, cumq
 @import url("base.css");
 
 /* ### BEM blocks ### */
+@import url("blocks/f-branding.css");
 @import url("blocks/f-hero.css");
 @import url("blocks/f-sub-left-heading.css");
 @import url("blocks/f-video.css");
@@ -33,9 +34,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, alias, cumq
 @import url("jon.css");
 @import url("home.css");
 
-/* ### Styles for the styleguide ### */
-/* #### Kalei theme #### */
-@import url("theme.css");
-
-/* #### Third Party #### */
-@import url("highlight/styles/googlecode.css");
